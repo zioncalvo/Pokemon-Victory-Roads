@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2659fd85f6ce49d479545b7d9a35cdeb, type: 3}
+  m_Name: Caterpie
+  m_EditorClassIdentifier: 
+  name: Caterpie
+  pokedexNumber: 10
+  description: 
+  frontSprite: {fileID: 0}
+  backSprite: {fileID: 0}
+  partyIcon1: {fileID: 0}
+  partyIcon2: {fileID: 0}
+  type1: 0
+  type2: 0
+  maxHp: 45
+  attack: 30
+  defense: 35
+  specialAttack: 20
+  specialDefense: 20
+  speed: 45
+  baseStatTotal: 195
+  encounterType1: 0
+  encounterType2: 0
+  encounterType3: 0
+  encounterType4: 0
+  evolutionList: []
+  learnableMoves: []
