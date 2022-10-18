@@ -2317,6 +2317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 592392634}
   - component: {fileID: 592392633}
+  - component: {fileID: 592392635}
   m_Layer: 0
   m_Name: SQUIRTLE_1
   m_TagString: Untagged
@@ -2391,6 +2392,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &592392635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 592392632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfff5761a4373ef4e93c9be699115425, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pokemonBase: {fileID: 11400000, guid: 611e337c5f76b2445863086495852603, type: 2}
 --- !u!1 &766639398 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5100973562418554883, guid: af75ff5ed9982a04caca621042e477e9, type: 3}

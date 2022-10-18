@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class BattleUnit : MonoBehaviour
 {
-    [SerializeField] PokemonBase _base;
+    public PokemonBase _base;
     [SerializeField] int level;
     [SerializeField] bool isPlayerUnit;
 
